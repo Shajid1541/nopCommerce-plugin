@@ -1,0 +1,657 @@
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Web.deps.json
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Web.runtimeconfig.json
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Web.runtimeconfig.dev.json
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Web.staticwebassets.runtime.json
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Web.exe
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\logo.png
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\plugin.json
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Areas\Admin\Views\_ViewImports.cshtml
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Views\_ViewImports.cshtml
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Areas\Admin\Views\NopStationEmployee\Create.cshtml
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Areas\Admin\Views\NopStationEmployee\Edit.cshtml
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Areas\Admin\Views\NopStationEmployee\List.cshtml
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Areas\Admin\Views\NopStationEmployee\_CreateOrUpdate.cshtml
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Views\Shared\Components\NopStationEmployeesComponent\Default.cshtml
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Plugin.Widgets.NopStationEmployees.deps.json
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Plugin.Widgets.NopStationEmployees.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Plugin.Widgets.NopStationEmployees.pdb
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authorization.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Cors.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Hosting.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Identity.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Localization.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Metadata.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Razor.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Routing.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Session.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.SignalR.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.CSharp.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Diagnostics.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Features.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Hosting.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Http.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Identity.Core.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Localization.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.Console.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.ObjectPool.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Options.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Primitives.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.WebEncoders.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.JSInterop.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Net.Http.Headers.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.VisualBasic.Core.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.VisualBasic.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Win32.Primitives.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Win32.Registry.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\mscorlib.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\netstandard.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.AppContext.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Buffers.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Collections.Concurrent.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Collections.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Collections.Immutable.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Collections.NonGeneric.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Collections.Specialized.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.Annotations.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.DataAnnotations.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.EventBasedAsync.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.Primitives.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.TypeConverter.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Configuration.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Console.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Core.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Data.Common.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Data.DataSetExtensions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Data.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.Contracts.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.Debug.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.DiagnosticSource.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.EventLog.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.FileVersionInfo.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.Process.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.StackTrace.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.Tools.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.TraceSource.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.Tracing.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Drawing.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Drawing.Primitives.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Dynamic.Runtime.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Formats.Asn1.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Formats.Tar.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Globalization.Calendars.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Globalization.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Globalization.Extensions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Compression.Brotli.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Compression.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Compression.FileSystem.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Compression.ZipFile.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.FileSystem.AccessControl.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.FileSystem.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.FileSystem.DriveInfo.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.FileSystem.Primitives.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.FileSystem.Watcher.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.IsolatedStorage.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.MemoryMappedFiles.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Pipelines.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Pipes.AccessControl.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Pipes.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.UnmanagedMemoryStream.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Linq.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Linq.Expressions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Linq.Parallel.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Linq.Queryable.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Memory.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Http.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Http.Json.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.HttpListener.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Mail.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.NameResolution.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.NetworkInformation.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Ping.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Primitives.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Quic.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Requests.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Security.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.ServicePoint.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Sockets.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.WebClient.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.WebHeaderCollection.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.WebProxy.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.WebSockets.Client.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.WebSockets.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Numerics.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Numerics.Vectors.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ObjectModel.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.DispatchProxy.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Emit.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Emit.ILGeneration.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Emit.Lightweight.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Extensions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Metadata.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Primitives.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.TypeExtensions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Resources.Reader.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Resources.ResourceManager.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Resources.Writer.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Extensions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Handles.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.InteropServices.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Intrinsics.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Loader.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Numerics.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Serialization.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Serialization.Formatters.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Serialization.Json.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Serialization.Primitives.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Serialization.Xml.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.AccessControl.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Claims.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Algorithms.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Cng.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Csp.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Encoding.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.OpenSsl.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Primitives.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.X509Certificates.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Xml.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Principal.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Principal.Windows.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.SecureString.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ServiceModel.Web.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ServiceProcess.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.Encoding.CodePages.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.Encoding.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.Encoding.Extensions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.Encodings.Web.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.Json.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.RegularExpressions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Channels.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Overlapped.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.RateLimiting.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Tasks.Dataflow.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Tasks.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Tasks.Extensions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Tasks.Parallel.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Thread.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.ThreadPool.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Timer.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Transactions.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Transactions.Local.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ValueTuple.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Web.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Web.HttpUtility.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Windows.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.Linq.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.ReaderWriter.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.Serialization.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.XDocument.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.XmlDocument.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.XmlSerializer.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.XPath.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.XPath.XDocument.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\WindowsBase.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.csproj.AssemblyReference.cache
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.AssemblyInfoInputs.cache
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.AssemblyInfo.cs
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.csproj.CoreCompileInputs.cache
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.sourcelink.json
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plug.25572112.Up2Date
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\refint\Nop.Plugin.Widgets.NopStationEmployees.dll
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.pdb
+C:\nopCommerce\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\ref\Nop.Plugin.Widgets.NopStationEmployees.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Web.deps.json
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Web.runtimeconfig.json
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Web.runtimeconfig.dev.json
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Web.staticwebassets.runtime.json
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Web.exe
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\logo.png
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\plugin.json
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Areas\Admin\Views\_ViewImports.cshtml
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Views\_ViewImports.cshtml
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Areas\Admin\Views\NopStationEmployee\Create.cshtml
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Areas\Admin\Views\NopStationEmployee\Edit.cshtml
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Areas\Admin\Views\NopStationEmployee\List.cshtml
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Areas\Admin\Views\NopStationEmployee\_CreateOrUpdate.cshtml
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Views\Shared\Components\NopStationEmployeesComponent\Default.cshtml
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Plugin.Widgets.NopStationEmployees.deps.json
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Plugin.Widgets.NopStationEmployees.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\Nop.Plugin.Widgets.NopStationEmployees.pdb
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authorization.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Cors.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Hosting.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Identity.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Localization.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Metadata.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Razor.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Routing.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.Session.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.SignalR.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.CSharp.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Diagnostics.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Features.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Hosting.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Http.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Identity.Core.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Localization.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.Console.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.ObjectPool.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Options.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.Primitives.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Extensions.WebEncoders.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.JSInterop.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Net.Http.Headers.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.VisualBasic.Core.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.VisualBasic.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Win32.Primitives.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\Microsoft.Win32.Registry.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\mscorlib.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\netstandard.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.AppContext.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Buffers.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Collections.Concurrent.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Collections.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Collections.Immutable.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Collections.NonGeneric.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Collections.Specialized.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.Annotations.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.DataAnnotations.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.EventBasedAsync.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.Primitives.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ComponentModel.TypeConverter.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Configuration.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Console.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Core.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Data.Common.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Data.DataSetExtensions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Data.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.Contracts.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.Debug.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.DiagnosticSource.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.EventLog.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.FileVersionInfo.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.Process.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.StackTrace.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.Tools.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.TraceSource.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Diagnostics.Tracing.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Drawing.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Drawing.Primitives.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Dynamic.Runtime.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Formats.Asn1.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Formats.Tar.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Globalization.Calendars.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Globalization.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Globalization.Extensions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Compression.Brotli.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Compression.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Compression.FileSystem.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Compression.ZipFile.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.FileSystem.AccessControl.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.FileSystem.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.FileSystem.DriveInfo.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.FileSystem.Primitives.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.FileSystem.Watcher.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.IsolatedStorage.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.MemoryMappedFiles.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Pipelines.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Pipes.AccessControl.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.Pipes.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.IO.UnmanagedMemoryStream.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Linq.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Linq.Expressions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Linq.Parallel.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Linq.Queryable.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Memory.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Http.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Http.Json.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.HttpListener.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Mail.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.NameResolution.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.NetworkInformation.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Ping.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Primitives.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Quic.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Requests.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Security.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.ServicePoint.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.Sockets.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.WebClient.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.WebHeaderCollection.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.WebProxy.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.WebSockets.Client.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Net.WebSockets.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Numerics.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Numerics.Vectors.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ObjectModel.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.DispatchProxy.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Emit.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Emit.ILGeneration.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Emit.Lightweight.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Extensions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Metadata.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.Primitives.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Reflection.TypeExtensions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Resources.Reader.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Resources.ResourceManager.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Resources.Writer.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Extensions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Handles.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.InteropServices.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Intrinsics.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Loader.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Numerics.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Serialization.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Serialization.Formatters.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Serialization.Json.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Serialization.Primitives.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Runtime.Serialization.Xml.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.AccessControl.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Claims.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Algorithms.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Cng.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Csp.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Encoding.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.OpenSsl.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Primitives.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.X509Certificates.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Cryptography.Xml.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Principal.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.Principal.Windows.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Security.SecureString.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ServiceModel.Web.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ServiceProcess.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.Encoding.CodePages.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.Encoding.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.Encoding.Extensions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.Encodings.Web.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.Json.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Text.RegularExpressions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Channels.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Overlapped.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.RateLimiting.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Tasks.Dataflow.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Tasks.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Tasks.Extensions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Tasks.Parallel.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Thread.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.ThreadPool.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Threading.Timer.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Transactions.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Transactions.Local.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.ValueTuple.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Web.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Web.HttpUtility.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Windows.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.Linq.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.ReaderWriter.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.Serialization.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.XDocument.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.XmlDocument.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.XmlSerializer.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.XPath.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\System.Xml.XPath.XDocument.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Presentation\Nop.Web\Plugins\Widgets.NopStationEmployees\refs\WindowsBase.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.csproj.AssemblyReference.cache
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.AssemblyInfoInputs.cache
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.AssemblyInfo.cs
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.csproj.CoreCompileInputs.cache
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plug.25572112.Up2Date
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\refint\Nop.Plugin.Widgets.NopStationEmployees.dll
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\Nop.Plugin.Widgets.NopStationEmployees.pdb
+C:\version_update_list\version update code\nopCommerce-release-4.70.3\nopCommerce-release-4.70.3\src\Plugins\Nop.Plugin.Widget.NopStationEmployees\obj\Debug\net8.0\ref\Nop.Plugin.Widgets.NopStationEmployees.dll
