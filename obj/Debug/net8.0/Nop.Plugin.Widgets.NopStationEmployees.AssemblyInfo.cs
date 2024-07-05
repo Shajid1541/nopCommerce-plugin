@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © Nop Station")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5058a5ffcb3f128dbb22f56466769b1f176c31ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d80091ea44cac78c6ad935656dfac5edc99d033")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nop.Plugin.Widgets.NopStationEmployees")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nop.Plugin.Widgets.NopStationEmployees")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
